@@ -1,1 +1,2 @@
-# Gestion-Des-Salaires
+# Gestion-Des-Salaires :
+Le projet "Gestion des Salaires" est une application Java dédiée à la gestion efficace des salaires au sein d'une organisation. Il propose des fonctionnalités complètes, telles que l'ajout, la modification, et la suppression des données salariales des employés. L'application facilite le calcul automatique des salaires, la génération de relevés, et offre une interface conviviale pour une gestion transparente du volet financier des ressources humaines.
